@@ -15,7 +15,9 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
-
+.bgInput{
+  background-color: rgb(248, 203, 148);
+}
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
